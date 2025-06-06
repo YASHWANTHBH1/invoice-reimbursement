@@ -63,7 +63,8 @@ How to setup
 ---
 
 file structure :
-![Screenshot 2025-06-06 194833](https://github.com/user-attachments/assets/4b8cf67c-041a-4e9f-a894-632bd9117f79)
+
+![Screenshot 2025-06-06 194856](https://github.com/user-attachments/assets/c8b7226a-43c7-4634-b019-5c9e8f14c27d)
 
 
 ---

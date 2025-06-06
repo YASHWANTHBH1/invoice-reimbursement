@@ -15,16 +15,23 @@ how it work?
 
 1. upload a policy PDF and a ZIP file with invoice  
    The app extracts the text from these files.
+![Screenshot 2025-06-06 182008](https://github.com/user-attachments/assets/579270ba-fe20-411d-890b-ace3adb943c9)
 
 2. It sends the info to a powerful AI model
    The AI reads your policy and invoices, then decides if each invoice is valid or noot.
+![Screenshot 2025-06-06 182034](https://github.com/user-attachments/assets/2e37ce7e-8548-4ee5-82e5-abcd5b79d4d8)
 
 3. It stores the results
    So you can download a summary in JSON or CSV formats.
+![Screenshot 2025-06-06 191309](https://github.com/user-attachments/assets/818536fe-0d79-4bdb-be02-27f7d203ac2b)
 
 4. You can ask questions or query it 
    Like “invoice approved?” or “What’s the policy on travel expenses?”  
    The AI uses smart search to find related info and answers you clearly.
+![Screenshot 2025-06-06 191417](https://github.com/user-attachments/assets/9a3a74ad-3fe2-4320-9d5e-ad2ca3fce1cd)
+![Screenshot 2025-06-06 191505](https://github.com/user-attachments/assets/f47f90e6-08fa-4c9d-90df-d4a016e76c02)
+![Screenshot 2025-06-06 191538](https://github.com/user-attachments/assets/4b33c1b4-6b46-407f-b11c-cd4e2ce964c0)
+
 
 ---
 
@@ -56,6 +63,7 @@ How to setup
 ---
 
 file structure :
+![Screenshot 2025-06-06 194833](https://github.com/user-attachments/assets/4b8cf67c-041a-4e9f-a894-632bd9117f79)
 
 
 ---

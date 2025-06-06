@@ -4,19 +4,14 @@ from pydantic import BaseModel
 from vectorstore.store import query_vector_db
 from dotenv import load_dotenv
 from openai import OpenAI
-
 load_dotenv()
-
 client = OpenAI(
-    api_key="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",
+    api_key="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",
     base_url="https://api.groq.com/openai/v1"
 )
-
 router = APIRouter()
-
 class QueryInput(BaseModel):
     query: str
-
 @router.post("/chatbot_query")
 async def chatbot_query(input: QueryInput):
     retrieved = query_vector_db(input.query)
@@ -24,9 +19,7 @@ async def chatbot_query(input: QueryInput):
     context = "\n\n".join(docs)
     prompt = f"""
 You are an assistant. Use the following invoice data to answer:
-
 {context}
-
 Question: {input.query}
 Answer in markdown.
 """

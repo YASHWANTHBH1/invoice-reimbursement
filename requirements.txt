@@ -6,3 +6,6 @@ chromadb
 python-multipart
 requests
 streamlit
+sentence-transformers
+python-dotenv
+streamlit_lottie

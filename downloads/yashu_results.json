@@ -1,0 +1,142 @@
+[
+    {
+        "invoice": "Book-cab-01 (1).pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a travel expense (cab ride) which is reimbursable under the Travel Expenses category. However, the amount exceeds the daily office cab allowance of \u20b9150. The employee is eligible for reimbursement up to \u20b9150, and the remaining \u20b983.46 (\u20b9233 - \u20b9150) will not be reimbursed."
+    },
+    {
+        "invoice": "Book-cab-02.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice amount is \u20b9167, which exceeds the daily office cab allowance of \u20b9150. According to the policy, the excess amount of \u20b917 will not be reimbursed. The employee will be reimbursed \u20b9150, which is the allowed amount for daily office cabs."
+    },
+    {
+        "invoice": "Book-cab-03.pdf",
+        "status": "Fully Reimbursed",
+        "reason": "The invoice is for a travel expense (cab ride) which is eligible for reimbursement under the Travel Expenses category. The amount of \u20b9141 is within the daily office cab allowance of \u20b9150. The invoice is supported by an original receipt and meets all the general guidelines and specific expense guidelines outlined in the HR policy."
+    },
+    {
+        "invoice": "Book-cab-04.pdf",
+        "status": "Fully Reimbursed",
+        "reason": "The invoice amount of \u20b9161 falls within the daily office cab allowance of \u20b9150, and the expense is incurred for work-related travel, which is eligible for reimbursement according to the policy. The invoice is supported by an original receipt, and there are no restrictions or limits that would prevent full reimbursement."
+    },
+    {
+        "invoice": "Book-cab-05.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a ride fare of \u20b9233, which includes a ride fee of \u20b9197.46 and taxes of \u20b935.54. According to the HR policy, the daily office cab allowance is \u20b9150. Therefore, the employee is eligible for reimbursement of \u20b9150, which is less than the total invoice amount. The excess amount of \u20b983 (\u20b9233 - \u20b9150) will not be reimbursed."
+    },
+    {
+        "invoice": "Book-cab-06.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a travel expense, which is eligible for reimbursement under the policy. However, the amount of \u20b9333 exceeds the daily office cab allowance of \u20b9150. The employee is eligible for reimbursement up to \u20b9150, and the remaining \u20b9183 will not be reimbursed."
+    },
+    {
+        "invoice": "Book-cab-07.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a travel expense, which is eligible for reimbursement under the policy. However, the amount of \u20b9111 is less than the daily office cab allowance of \u20b9150, so the employee is eligible for reimbursement up to \u20b9150. The excess amount of \u20b949 (\u20b9150 - \u20b9111) will not be reimbursed."
+    },
+    {
+        "invoice": "Book-cab-08.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for travel expenses, which is an eligible category for reimbursement. However, the daily office cab allowance is \u20b9150, and the invoice amount is \u20b9376.27, which exceeds the allowed limit. Therefore, the employee is eligible for reimbursement up to \u20b9150, and the remaining amount will not be reimbursed."
+    },
+    {
+        "invoice": "Book-cab-09.pdf",
+        "status": "Fully Reimbursed**",
+        "reason": "The invoice is for a ride fare of \u20b9150, which is within the daily office cab allowance of \u20b9150 specified in the HR policy (Section 5.2 Travel Expenses). The invoice is also supported by an original tax invoice, which meets the documentation requirements outlined in Section 4. General Guidelines of the HR policy."
+    },
+    {
+        "invoice": "Book-cab-10.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a travel expense, specifically a cab ride, which is eligible for reimbursement. However, the allowance for daily office cabs is \u20b9150, and the invoice amount is \u20b9150, which means the employee is eligible for reimbursement up to \u20b9150."
+    },
+    {
+        "invoice": "Meal Invoice 1.pdf",
+        "status": "Declined",
+        "reason": "The invoice includes reimbursement for Alcoholic beverages (Royal Stag Whisky, which is explicitly restricted under the HR policy (Section 5.1 Restrictions). Additionally, the total amount of the meal (\u20b9700) exceeds the allowed limit of \u20b9200 per person."
+    },
+    {
+        "invoice": "Meal Invoice 2.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The total amount of the invoice is \u20b9607.70, but the company has a limit of \u20b9200 per meal for food reimbursements. Therefore, the employee is eligible for reimbursement of \u20b9200, and the remaining amount \u20b9407.70 will not be reimbursed."
+    },
+    {
+        "invoice": "Meal Invoice 3.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for food and beverages, which is an eligible category for reimbursement. However, the total amount of \u20b9374.00 exceeds the set limit of \u20b9200 per meal. Therefore, only \u20b9200 will be reimbursed, and the remaining \u20b9174.00 will not be reimbursed."
+    },
+    {
+        "invoice": "Meal Invoice 4.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is partially reimbursable as per the HR policy. \n\nThe policy allows reimbursement for food and beverages up to \u20b9200 per meal. The invoice shows a total amount of \u20b988.00, which includes CGST and SGST. The amount eligible for reimbursement is \u20b980.00 (Sub Total). \n\nHowever, the policy specifies that the reimbursement limit is \u20b9200 per meal. Since the invoice is for \u20b980.00, which is less than the limit, it is eligible for reimbursement. \n\nThe policy does not specify any restrictions on the type of food, so the items listed (Idli, Vada, and Tea) are eligible. \n\nThe employee should be reimbursed \u20b980.00, which is the eligible amount."
+    },
+    {
+        "invoice": "Meal Invoice 5.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for food and beverages, which is an eligible category for reimbursement. However, the total amount of \u20b9440.00 exceeds the set limit of \u20b9200.00 per meal. The employee is eligible for reimbursement of \u20b9200.00, which is the maximum allowed amount. The excess amount of \u20b9240.00 will not be reimbursed."
+    },
+    {
+        "invoice": "Meal Invoice 6.pdf",
+        "status": "Declined",
+        "reason": "The invoice is for wine and biriyani, which exceeds the food allowance of \u20b9200 per meal. Additionally, the invoice includes wine, which is explicitly restricted from reimbursement according to the HR policy."
+    },
+    {
+        "invoice": "Meal Invoice 7.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for food and beverages, which is an eligible category for reimbursement. However, the total amount of \u20b990 exceeds the limit of \u20b9200 per meal. According to the policy, the employee is only eligible for reimbursement up to \u20b9200 per meal. Therefore, the excess amount of \u20b990 - \u20b9200 = \u20b9110 will not be reimbursed."
+    },
+    {
+        "invoice": "Meal Invoice 8.pdf",
+        "status": "Declined",
+        "reason": "The invoice includes MC Whisky, which is an alcoholic beverage, and according to the policy, \"Alcoholic beverages are not reimbursable\" under the Food and Beverages category. Additionally, the total amount of the meal (\u20b9 255) exceeds the set food allowance of \u20b9200 per meal."
+    },
+    {
+        "invoice": "Book 1.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The travel expense is eligible for reimbursement, but the amount exceeds the set allowance.\n\nAccording to the HR policy, travel expenses are eligible for reimbursement up to \u20b92,000 per trip, depending on the location and the employee's level. The daily office cab allowance is \u20b9150. However, the invoice shows a total fare of \u20b97,377, which exceeds the set allowance. Therefore, the reimbursement will be partially approved up to the allowed amount, and the excess amount will not be reimbursed.\n\nAdditionally, the HR policy specifies that reimbursement for travel expenses is allowed only for work-related purposes. Since the invoice does not provide any information about the travel, it is assumed that the travel is work-related. If the travel is not work-related, the reimbursement request will be declined.\n\nIt is recommended that the employee provides more information about the travel purpose and breaks down the travel expense to ensure accurate reimbursement."
+    },
+    {
+        "invoice": "Book 2.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The travel expense of \u20b98388.98 exceeds the allowed limit of \u20b92000 per trip as per the HR policy. However, the daily office cab allowance of \u20b9150 is not applicable in this case. The employee can be reimbursed up to \u20b92000, and the remaining amount will not be reimbursed.\n\nNote: The HR policy does not mention anything about air travel, so it's assumed that the travel expense category applies to this case."
+    },
+    {
+        "invoice": "Book 3.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for travel expenses, which is an eligible category for reimbursement. However, the allowance for travel reimbursements is \u20b92,000 per trip, depending on the location and the employee's level. The invoice amount is \u20b93688.14, which exceeds the allowed limit. Therefore, the employee will be reimbursed up to \u20b92,000, and the remaining amount will not be reimbursed."
+    },
+    {
+        "invoice": "Book 4.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for travel expenses, which is eligible for reimbursement under the company's policy. The policy allows reimbursement for travel expenses up to \u20b92,000 per trip, depending on the location and the employee's level. In this case, the total fare is \u20b98900, which exceeds the allowed limit. Therefore, the reimbursement will be limited to \u20b92,000. Additionally, the policy does not specify any restrictions on the mode of travel, and Air India is not mentioned as a company-approved airline, but it is not explicitly excluded either."
+    },
+    {
+        "invoice": "Book 5.pdf",
+        "status": "Failed",
+        "reason": "Error analyzing this invoice: list index out of range"
+    },
+    {
+        "invoice": "Book 6 (1).pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a travel expense, which is eligible for reimbursement under the company's policy. However, the total fare of \u20b9 2000 exceeds the allowed limit of \u20b9 2000 per trip, depending on the location and the employee's level. The daily office cab allowance is \u20b9 150, but this is not applicable in this case. The employee will be reimbursed up to the allowed limit, and the excess amount will not be reimbursed."
+    },
+    {
+        "invoice": "Book 7.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for a travel expense, which is eligible for reimbursement under the company's policy. However, the amount exceeds the set allowance for travel reimbursements of \u20b92,000 per trip. The company's policy states that any travel-related expenses incurred for personal reasons will not be reimbursed. Since the invoice is for a semi-sleeper ticket from Bangalore to Mysore, it is likely that this is a work-related trip. Therefore, I would partially reimburse the employee up to the allowed limit of \u20b92,000, and decline the remaining \u20b91,079.66.\n\nAdditionally, I would request the employee to provide more details about the trip, such as the purpose of the trip, and any other expenses incurred during the trip, to ensure that the reimbursement is in compliance with the company's policy."
+    },
+    {
+        "invoice": "Book 8.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The invoice is for travel expenses, which is an eligible category for reimbursement according to the policy. However, the total fare of \u20b92100 exceeds the set allowance of \u20b92000 per trip. Therefore, the employee is eligible for reimbursement up to \u20b92000, and the remaining \u20b9100 will not be reimbursed. The employee should be reimbursed \u20b92000."
+    },
+    {
+        "invoice": "Book 9.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The travel expense is eligible for reimbursement, but the amount exceeds the set allowance of \u20b92,000 per trip. The reimbursement will be limited to \u20b92,000, and the excess amount of \u20b93,788.54 will not be reimbursed."
+    },
+    {
+        "invoice": "LTA Bill Template 1.pdf",
+        "status": "Partially Reimbursed",
+        "reason": "The travel expense is eligible for reimbursement, but the amount exceeds the set allowance of \u20b92,000 per trip. The employee will be reimbursed up to \u20b92,000, and the remaining amount of \u20b91,653.39 will not be reimbursed.\n\nAdditionally, the invoice does not include any food and beverage expenses, which are eligible for reimbursement under the policy. If the employee incurred any food and beverage expenses during the trip, they should submit a separate reimbursement request with original receipts, following the guidelines outlined in the policy."
+    }
+]

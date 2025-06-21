@@ -1,4 +1,4 @@
-assignment
+
 # Invoice Reimbursement System
 
 This project is a simple web app built with Python’s FastAPI. It helps companies analyze their invoices and answer questions about them using advanced AI models.
